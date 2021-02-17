@@ -285,6 +285,26 @@ Config. dos links dos cartoes
     margin: 10%;
 }
 
+
+.cartao-github {
+    cursor: default;
+    background: #141414;
+    width: 40vh;
+    height: 40vh;
+    margin-top: 20vh;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    border-radius: 7% 24%;
+    padding: 20px;
+}
+
+.imagem-github {
+    width: 70%;
+    border-radius: 100%;
+}
+
 button {
     border: solid 2px;
     border-radius: 10px;
